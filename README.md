@@ -17,3 +17,8 @@ In order to work with it you can use:
 
 * Node (With Typescript)
 * Mysql
+
+
+# Env Var
+
+The `env` var is located in the folder `env`, both examples are already filled up, just need to copy and pasted in the same place.
