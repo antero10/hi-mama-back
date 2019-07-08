@@ -6,3 +6,4 @@ tmp/
 temp/
 *.env
 __tests__
+lib/
